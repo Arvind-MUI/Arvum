@@ -5,7 +5,6 @@ import random
 delay = 0.1
 score = 0
 high_score = 500000
-low_score= 3000
 # Screen setup
 wn = turtle.Screen()
 wn.title("Snake Game")
