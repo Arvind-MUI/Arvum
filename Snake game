@@ -5,6 +5,18 @@ import random
 delay = 0.1
 score = 0
 high_score = 500000
+#Arvind
+
+
+
+
+
+
+
+
+
+
+
 
 # Screen setup
 wn = turtle.Screen()
